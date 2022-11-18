@@ -1,2 +1,2 @@
 # laosiji-blog.github.io
-博客
+嘻嘻
